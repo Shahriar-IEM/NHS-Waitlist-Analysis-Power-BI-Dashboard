@@ -15,7 +15,7 @@ This repository contains an interactive Power BI dashboard that analyzes the NHS
 
 ## 🔍 Features & Insights
 
-### 🧾 Key Metrics (as of March 31, 2021)
+### 🧾 Key Metrics Average (as of March 31, 2021)
 
 * **Total Waitlisted Patients:** 709K
 * **Day Case:** 57.6K
@@ -24,7 +24,6 @@ This repository contains an interactive Power BI dashboard that analyzes the NHS
 * **Orthopaedics Total:** 84.9K
 * **Top Age Group Waitlist:** 16–64 years
 * **Longest Wait Band:** 18+ Months
-* **Overall Specialties Tracked:** 111
 
 ---
 
